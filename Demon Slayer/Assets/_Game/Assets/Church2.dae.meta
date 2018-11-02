@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 37d84e5bdc4a3274d9b96c5430d89cea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bell
+    100002: Camera
+    100004: Camera_001
+    100006: Camera_008
+    100008: //RootNode
+    100010: Cube
+    100012: Cube_003
+    100014: Cylinder
+    100016: door
+    100018: front_001
+    100020: Lamp
+    100022: Plane
+    100024: Plane_001
+    100026: roof
+    100028: windowcenter
+    100030: windowcenter_001
+    100032: windowcenter_002
+    100034: windowleft
+    100036: windowleft_001
+    400000: bell
+    400002: Camera
+    400004: Camera_001
+    400006: Camera_008
+    400008: //RootNode
+    400010: Cube
+    400012: Cube_003
+    400014: Cylinder
+    400016: door
+    400018: front_001
+    400020: Lamp
+    400022: Plane
+    400024: Plane_001
+    400026: roof
+    400028: windowcenter
+    400030: windowcenter_001
+    400032: windowcenter_002
+    400034: windowleft
+    400036: windowleft_001
+    2000000: Camera
+    2000002: Camera_001
+    2000004: Camera_008
+    2100000: churchsprite_png
+    2100002: diffus_tga_001
+    2100004: door_png
+    2100006: No Name
+    2100008: wall1_png
+    2300000: bell
+    2300002: Cube
+    2300004: Cube_003
+    2300006: Cylinder
+    2300008: door
+    2300010: front_001
+    2300012: Plane
+    2300014: Plane_001
+    2300016: roof
+    2300018: windowcenter
+    2300020: windowcenter_001
+    2300022: windowcenter_002
+    2300024: windowleft
+    2300026: windowleft_001
+    3300000: bell
+    3300002: Cube
+    3300004: Cube_003
+    3300006: Cylinder
+    3300008: door
+    3300010: front_001
+    3300012: Plane
+    3300014: Plane_001
+    3300016: roof
+    3300018: windowcenter
+    3300020: windowcenter_001
+    3300022: windowcenter_002
+    3300024: windowleft
+    3300026: windowleft_001
+    4300000: Cube
+    4300002: roof
+    4300004: Cube_003
+    4300006: door
+    4300008: windowcenter
+    4300010: windowleft
+    4300012: front_001
+    4300014: Plane
+    4300016: bell
+    4300018: Cylinder
+    4300020: windowcenter_002
+    4300022: Plane_001
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
